@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android_Wgcwgc_UI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">设置</string>
+    
+    <string name="Button1">账号</string>
+    
+    <string name="account">账号</string>
+    <string name="account_hint">手机号/用户名/邮箱</string>
+    
+    <string name="password">密码</string>
+    <string name="password_hint">密码</string>
+    
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+
+    <string name="forget_password">忘记密码？</string>
+    <string name="Retrieve_account">找回账号！</string>
+    
+    
+
+</resources>
